@@ -6,6 +6,11 @@ The **Well Integrity Monitoring & Management System (WIMS)** is an end-to-end da
 The system integrates well master data, sensor readings, inspection records, integrity events, and maintenance history into a unified analytics platform, enabling teams to move from **reactive integrity response** to **risk-based proactive management**.
 
 ---
+## 🔗 View Live Demo
+
+👉 **[View Power BI Dashboard](https://app.powerbi.com/)**  
+
+---
 
 ## 🎯 Business Problem
 Oil & gas operators face significant:
@@ -101,6 +106,7 @@ These outputs form the analytical backbone for reporting.
 A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 layout. Each page serves a specific audience and decision level.
 
 ### 📄 Page 1 – Executive Overview
+![](Images/0001.jpg)
 **Audience:** Asset Managers, Senior Leadership
 
 **Purpose:** High-level integrity and cost snapshot
@@ -115,6 +121,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 ---
 
 ### 📄 Page 2 – Risk & Priority Assessment
+![](Images/0002.jpg)
 **Audience:** Integrity & Asset Engineers
 
 **Purpose:** Identify and prioritize high-risk wells
@@ -127,6 +134,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 ---
 
 ### 📄 Page 3 – Sensor Monitoring & Abnormal Behaviour
+![](Images/0003.jpg)
 **Audience:** Production & Surveillance Engineers
 
 **Purpose:** Detect abnormal operating conditions early
@@ -139,6 +147,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 ---
 
 ### 📄 Page 4 – Inspection Compliance & Effectiveness
+![](Images/0004.jpg)
 **Audience:** Integrity & Compliance Teams
 
 **Purpose:** Track inspection execution and failures
@@ -150,6 +159,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 ---
 
 ### 📄 Page 5 – Maintenance & Cost Impact
+![](Images/0005.jpg)
 **Audience:** Asset & Maintenance Managers
 
 **Purpose:** Analyze integrity-related expenditure
@@ -162,6 +172,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 ---
 
 ### 📄 Page 6 – Asset Performance Comparison & Management Summary
+![](Images/0006.jpg)
 **Audience:** Senior Management
 
 **Purpose:** Strategic, decision-ready summary
@@ -202,6 +213,4 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 ---
 
 ## 🧪 Notes
-- Data used is synthetic but **industry-realistic**
-- Design mirrors **real upstream integrity workflows**
-- Intended for **portfolio and interview demonstration**
+- Data used is synthetic but **industry-realistic

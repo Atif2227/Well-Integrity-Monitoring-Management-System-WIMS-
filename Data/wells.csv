@@ -1,0 +1,11 @@
+well_id,well_name,field_name,location_type,well_type,completion_date,current_status
+1,WELL_1,South Field,Onshore,Injector,02-10-2018 00:00,Active
+2,WELL_2,North Field,Offshore,Producer,14-12-2021 00:00,Active
+3,WELL_3,South Field,Onshore,Producer,15-10-2019 00:00,Active
+4,WELL_4,South Field,Offshore,Injector,07-04-2019 00:00,Active
+5,WELL_5,North Field,Onshore,Injector,05-03-2019 00:00,Active
+6,WELL_6,North Field,Onshore,Producer,01-12-2019 00:00,Active
+7,WELL_7,South Field,Offshore,Injector,03-02-2016 00:00,Active
+8,WELL_8,North Field,Onshore,Injector,15-04-2016 00:00,Active
+9,WELL_9,North Field,Onshore,Producer,23-10-2016 00:00,Active
+10,WELL_10,South Field,Onshore,Injector,22-03-2015 00:00,Active

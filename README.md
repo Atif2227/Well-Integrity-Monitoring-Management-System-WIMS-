@@ -1,4 +1,4 @@
-# 🛢️ Well Integrity Monitoring & Management System (WIMS)
+# Well Integrity Monitoring & Management System (WIMS)
 
 ## 📌 Project Overview
 The **Well Integrity Monitoring & Management System (WIMS)** is an end-to-end data analytics project designed to support proactive monitoring, risk identification, and decision-making for **onshore and offshore oil & gas wells**.
@@ -25,7 +25,7 @@ Integrity data is often fragmented across multiple systems, making it difficult 
 
 ---
 
-## ✅ Project Objectives
+## Project Objectives
 - Design a **WIMS-style end-to-end analytics solution**
 - Model realistic upstream integrity data using SQL
 - Simulate **enterprise ETL logic** (ADF-style)
@@ -34,7 +34,7 @@ Integrity data is often fragmented across multiple systems, making it difficult 
 
 ---
 
-## 🧱 Data Sources
+## Data Sources
 Synthetic but industry-realistic datasets simulate real operational systems:
 - **Well Master Data** – static well attributes (location, type, status)
 - **Sensor Monitoring Systems** – pressure, temperature, flow (time-series)
@@ -46,7 +46,7 @@ All datasets are linked through a common `well_id`.
 
 ---
 
-## 🏗️ Architecture & Data Modeling
+## Architecture & Data Modeling
 - **Database:** SQL Server (relational)
 - **Schema Type:** Fact Constellation (Galaxy Schema)
 
@@ -63,7 +63,7 @@ Each process is stored in its own fact table, all sharing the **Wells** dimensio
 
 ---
 
-## 🔄 ETL & Data Ingestion (Conceptual)
+## ETL & Data Ingestion (Conceptual)
 Enterprise-style ETL logic was designed to simulate Azure Data Factory behavior:
 - Historical load followed by incremental inserts
 - Parent-before-child load sequencing
@@ -74,7 +74,7 @@ Enterprise-style ETL logic was designed to simulate Azure Data Factory behavior:
 
 ---
 
-## ✅ Data Quality & Business Rules
+## Data Quality & Business Rules
 **Quality controls:**
 - Enforced foreign keys (no orphan records)
 - Proper data types for all measurements
@@ -90,7 +90,7 @@ Enterprise-style ETL logic was designed to simulate Azure Data Factory behavior:
 
 ---
 
-## 📊 Analytics & Risk Identification (SQL)
+## Analytics & Risk Identification (SQL)
 SQL analysis produced actionable insights:
 - Wells operating outside pressure limits
 - Repeated integrity failures
@@ -105,7 +105,7 @@ These outputs form the analytical backbone for reporting.
 ## 📈 Power BI Dashboard
 A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 layout. Each page serves a specific audience and decision level.
 
-### 📄 Page 1 – Executive Overview
+### Page 1 – Executive Overview
 ![](Images/0001.jpg)
 **Audience:** Asset Managers, Senior Leadership
 
@@ -120,7 +120,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 
 ---
 
-### 📄 Page 2 – Risk & Priority Assessment
+### Page 2 – Risk & Priority Assessment
 ![](Images/0002.jpg)
 **Audience:** Integrity & Asset Engineers
 
@@ -133,7 +133,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 
 ---
 
-### 📄 Page 3 – Sensor Monitoring & Abnormal Behaviour
+### Page 3 – Sensor Monitoring & Abnormal Behaviour
 ![](Images/0003.jpg)
 **Audience:** Production & Surveillance Engineers
 
@@ -146,7 +146,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 
 ---
 
-### 📄 Page 4 – Inspection Compliance & Effectiveness
+### Page 4 – Inspection Compliance & Effectiveness
 ![](Images/0004.jpg)
 **Audience:** Integrity & Compliance Teams
 
@@ -158,7 +158,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 
 ---
 
-### 📄 Page 5 – Maintenance & Cost Impact
+### Page 5 – Maintenance & Cost Impact
 ![](Images/0005.jpg)
 **Audience:** Asset & Maintenance Managers
 
@@ -171,7 +171,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 
 ---
 
-### 📄 Page 6 – Asset Performance Comparison & Management Summary
+### Page 6 – Asset Performance Comparison & Management Summary
 ![](Images/0006.jpg)
 **Audience:** Senior Management
 
@@ -185,7 +185,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 
 ---
 
-## 🧠 Key Outcomes
+## Key Outcomes
 - Identified **high-risk wells** requiring immediate attention
 - Linked integrity risk to **inspection and maintenance gaps**
 - Enabled **risk-based prioritization** over reactive response
@@ -193,7 +193,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - **SQL Server** – data modeling and analytics
 - **Power BI** – dashboards and visualization
 - **Azure Data Factory (conceptual)** – ETL design
@@ -201,7 +201,7 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 
 ---
 
-## 👤 Role & Scope
+## Role & Scope
 **Role:** Data Analyst / Analytics Consultant
 
 **Focus Areas:**
@@ -212,5 +212,5 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 
 ---
 
-## 🧪 Notes
+## Notes
 - Data used is synthetic but **industry-realistic

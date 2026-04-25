@@ -1,4 +1,10 @@
 # Well Integrity Monitoring & Management System (WIMS)
+---
+**Role:** Senior Data Analyst, Consultant  
+**Domain:** Petrolium Analytics  
+**Objective:** The objective of this project is to design and implement an automated ETL and reporting system that monitors well integrity by analyzing sensor data, inspection compliance, and failure patterns to prioritize high-risk interventions.
+
+---
 
 ## 📌 Project Overview
 The **Well Integrity Monitoring & Management System (WIMS)** is an end-to-end data analytics project designed to support proactive monitoring, risk identification, and decision-making for **onshore and offshore oil & gas wells**.

@@ -220,3 +220,14 @@ A **six-page Power BI report** follows a six-layer dashboard design and a 16:9 l
 
 ## Notes
 - Data used is synthetic but **industry-realistic
+
+---
+
+## 👤 Consultant
+
+**Atif Noorul Hasan** <br />
+Healthcare Analytics Consultant <br />
+Business Intelligence | Data Analytics | Dashboard Design <br />
+
+🔗 Website – https://atifdata.com <br />
+✉️ Email – atif@atifdata.com
